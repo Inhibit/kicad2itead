@@ -9,7 +9,9 @@ This script renames KiCad Gerber files to match the filenames names required by 
 
     kicad2itead project_name
 
-`project name` is the substring common to all generated Gerber files (usually the project name in KiCad).
+`project name` is the substring common to all generated Gerber files (usually the project name in KiCad). Exmaple:
+
+![alt text](https://raw.github.com/Inhibit/kicad2itead/master/kicad2itead-screenshot.png "Example run")
 
 ## Note
 This script only works with two layer PCBs but can easily be extended for 4-layer boards (just add the corresponding fields to `ORG_FILES`, `DST_FILES` and `DESCRIPTS` variables).
