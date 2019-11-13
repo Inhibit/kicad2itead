@@ -9,7 +9,7 @@ This script renames KiCad Gerber files to match the filenames names required by 
 
     kicad2itead project_name
 
-`project name` is the substring common to all generated Gerber files (usually the project name in KiCad). Exmaple:
+`project name` is the substring common to all generated Gerber files (usually the project name in KiCad). Example:
 
 ![alt text](https://raw.github.com/Inhibit/kicad2itead/master/kicad2itead-screenshot.png "Example run")
 
